@@ -1,1 +1,1 @@
-# MSc_ImageProcessing
+# MSc_MathForDataScience
